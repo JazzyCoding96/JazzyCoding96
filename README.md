@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jaswinder Bhogal
-- 👀 I’m specifically interested in back-end development but have experience in building full-stack web applications with JavaScript (Node.js, React, Express.js, etc)
-- 💞️ I’m looking to collaborate on full-stack apps 
+- 👀 I have experience in building full-stack web applications with JavaScript (Node.js, React, Express.js) alongside PSQL. I am currently working on a Django project using Python
 - 📫 How to reach me www.linkedin.com/in/jaswinderbhogal
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love healthy eating and working out
